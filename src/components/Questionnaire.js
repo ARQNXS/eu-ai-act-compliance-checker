@@ -24,7 +24,7 @@ const Questionnaire = () => {
 
   const handleSubmit = () => {
     const unansweredCount = answers.filter(answer => answer === null).length;
-    if (unansweredCount > 0) {
+    if (unansweredCount > 1) {
       alert(`Please answer all questions before submitting. ${unansweredCount} question(s) remaining.`);
     } else {
       navigate('/result', { state: { answers } });
@@ -58,7 +58,7 @@ const Questionnaire = () => {
       <div className="progress-bar">
         <div 
           className="progress"
-          style={{ width: `${((currentQuestion + 1) / questions.length) * 100}%` }}
+          style={{ width: `${((currentQuestion +1 ) / questions.length) * 100}%` }}
         ></div>
       </div>
     </div>
