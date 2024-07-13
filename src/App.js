@@ -6,7 +6,7 @@ import './styles/App.css';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/eu-ai-act-compliance-checker">
       <div className="App">
         <Routes>
           <Route path="/" exact element={<Questionnaire />} />
