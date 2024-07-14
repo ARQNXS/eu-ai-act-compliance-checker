@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/eu-ai-act-compliance-checker/static/css/main.ca46cdef.css",
-    "main.js": "/eu-ai-act-compliance-checker/static/js/main.a52227a5.js",
+    "main.js": "/eu-ai-act-compliance-checker/static/js/main.662ade7f.js",
     "static/js/453.69c141c6.chunk.js": "/eu-ai-act-compliance-checker/static/js/453.69c141c6.chunk.js",
     "static/media/logo.png": "/eu-ai-act-compliance-checker/static/media/logo.e8fcccde1658edba6eae.png",
     "index.html": "/eu-ai-act-compliance-checker/index.html",
     "main.ca46cdef.css.map": "/eu-ai-act-compliance-checker/static/css/main.ca46cdef.css.map",
-    "main.a52227a5.js.map": "/eu-ai-act-compliance-checker/static/js/main.a52227a5.js.map",
+    "main.662ade7f.js.map": "/eu-ai-act-compliance-checker/static/js/main.662ade7f.js.map",
     "453.69c141c6.chunk.js.map": "/eu-ai-act-compliance-checker/static/js/453.69c141c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca46cdef.css",
-    "static/js/main.a52227a5.js"
+    "static/js/main.662ade7f.js"
   ]
 }
